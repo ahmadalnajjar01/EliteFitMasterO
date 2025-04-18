@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F0BB78;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadowEffect" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="shadow"/>
+      <feOffset dx="2" dy="2" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.6"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <text 
+    x="200" 
+    y="120" 
+    text-anchor="middle" 
+    font-family="Arial Black, sans-serif" 
+    font-size="80" 
+    font-weight="bold" 
+    fill="url(#brandGradient)"
+    filter="url(#shadowEffect)"
+  >
+    EliteFit
+  </text>
+  
+  <path 
+    d="M180 150 Q200 180 220 150" 
+    stroke="url(#brandGradient)" 
+    stroke-width="4" 
+    fill="none"
+  />
+</svg>
