@@ -37,7 +37,6 @@ Built with React · Node.js · PostgreSQL · Express
 **Frontend:** React · Next.js · Tailwind CSS · Redux Toolkit  
 **Backend:** Node.js · Express.js  
 **Database:** PostgreSQL  
-**AI/ML:** Python · TensorFlow / PyTorch  
 **Auth & Security:** JWT · 2FA Options  
 **Storage & Media:** Multer  
 **Payments:** Stripe / PayPal
@@ -73,8 +72,8 @@ Built with React · Node.js · PostgreSQL · Express
    ```
 2. **Install dependencies**
    ```bash
-   cd frontend && npm install
-   cd ../backend && npm install
+   cd client && npm install
+   cd server && npm install
    ```
 3. **Configure environment**
    - Copy `.env.example` to `.env` in both `frontend` and `backend`.
@@ -88,13 +87,6 @@ Built with React · Node.js · PostgreSQL · Express
    #admin
    cd client/adminDash && npm run dev
    ```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ---
 
 © 2025 Elite Fit - All rights reserved
