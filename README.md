@@ -1,6 +1,5 @@
 # 🏆 Elite Fit
 
-![Elite Fit Logo](https://github.com/ahmadalnajjar01/EliteFitMasterO/blob/main/assets/logo.png)
 
 **Jordan’s AI‑Powered Fashion E‑Commerce Platform**
 
