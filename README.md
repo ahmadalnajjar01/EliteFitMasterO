@@ -39,7 +39,7 @@ Built with React · Node.js · PostgreSQL · Express
 **Database:** PostgreSQL  
 **AI/ML:** Python · TensorFlow / PyTorch  
 **Auth & Security:** JWT · 2FA Options  
-**Storage & Media:** Cloudinary  
+**Storage & Media:** Multer  
 **Payments:** Stripe / PayPal
 
 ---
