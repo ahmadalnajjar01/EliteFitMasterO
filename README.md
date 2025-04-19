@@ -58,7 +58,7 @@ Built with React · Node.js · PostgreSQL · Express
 ## 🔗 Project Resources
 
 - **GitHub Repo:** [EliteFitMasterO](https://github.com/ahmadalnajjar01/EliteFitMasterO)
-- **Design & Prototype:** [Figma Board](https://www.figma.com/design/55KZncNzTu1xf5Hy4gmtGb/Elitefit?node-id=0-1&p=f&t=kskFQLoSLOt3ut2q-0)
+- **Design & Prototype:** [Figma Board]([https://www.figma.com/design/55KZncNzTu1xf5Hy4gmtGb/Elitefit?node-id=0-1&p=f&t=kskFQLoSLOt3ut2q-0](https://www.figma.com/design/55KZncNzTu1xf5Hy4gmtGb/Elitefit?node-id=0-1&p=f&t=1W0wR7bNqpiJpMqT-0))
 - **Task Management:** [Trello Board](https://trello.com/b/UkXEI35Z/elitefit)
 
 ---
